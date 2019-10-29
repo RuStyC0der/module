@@ -72,11 +72,18 @@ main {
     left: 90%;
   }
 
+  80% {
+    top: 45%;
+    left: 45%;
+    background-color: blue;
 
-  
+  }
+
   100% {
     top: 45%;
     left: 45%;
+    background-color: white;
+    transform: rotate(720deg);
   }
 }
 
@@ -98,9 +105,19 @@ main {
     left: 90%;
   }
 
+
+  80% {
+    top: 45%;
+    left: 45%;
+    background-color: blue;
+
+  }
+
   100% {
     top: 45%;
     left: 45%;
+    background-color: white;
+    transform: rotate(720deg);
   }
 }
 
